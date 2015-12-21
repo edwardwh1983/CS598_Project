@@ -1,3 +1,5 @@
+Tag Cloud for Tweets
+=====================
 In order to display the tag cloud page correctly, please follow the instructions below:
 
 1.	In terminal, cd to the repository of this project
